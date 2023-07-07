@@ -21,8 +21,8 @@
   </div>
 </template>
 
-<script>
-  export default {
-    
+<style>
+  .router-link-exact-active {
+    color: rgb(0, 110, 255);
   }
-</script>
+</style>
