@@ -20,4 +20,14 @@
   })
 
   const {data:products} = await useFetch('https://fakestoreapi.com/products')
+
+  useHead({
+    title: 'E-Commerce | Products',
+    meta: [
+      {
+        name: 'E-Commerce',
+        content: 'E-Commerce | Products',
+      },
+    ],
+  })
 </script>
