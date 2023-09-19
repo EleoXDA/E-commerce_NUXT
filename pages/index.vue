@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Index</h1>
+    <img src="../assets/images/e-commerce bg.jpg" />
   </div>
 </template>
 
